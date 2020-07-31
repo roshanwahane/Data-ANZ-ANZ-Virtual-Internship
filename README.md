@@ -13,7 +13,7 @@ Finally, we will perform data visualisation on the location information provided
 
 ## Task 2
 
-### Predict annual salary
+### Predictive Analystics - Predict Annual Salary
 Explore correlations between annual salary and various customer attributes. Some of the attributes are already available but we will work on deriving more attributes from the dataset.
 We will further calculate and visualise correlation between different attributes in the dataset.
 Once we have the dataset ready, we will begin to build a linear regression model followed by decision-based regression tree to predict annual salary of customers in the dataset.
